@@ -1,9 +1,9 @@
 # MaskOff
-#Spot the Mask Challenge
+# Spot the Mask Challenge
 
 The objective of this Project is to create an image classification machine learning model to accurately predict the likelihood that an image contains a person wearing a face mask, or not. The total dataset contains 1,800+ images of people either wearing masks or not.
 
-##Table of Content
+## Table of Content
 * [Instalations](#Installation)
 * [Project Motivation and Description](#Motivation)
 * [File Description](#Description)
